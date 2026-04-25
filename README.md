@@ -33,6 +33,6 @@ Through clustering, I identified 5 major groups:
 * **Standard:** Average income and average spending.
 
 ---
-**Author:** [Adın və Soyadın]
+**Author:** Revan Khanbabayev
 **Task Number:** 6
 **Level:** Intermediate
