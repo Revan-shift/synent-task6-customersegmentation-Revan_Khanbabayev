@@ -32,6 +32,9 @@ Through clustering, I identified 5 major groups:
 * **Spendthrifts:** Low income but high spending score.
 * **Standard:** Average income and average spending.
 
+### 🎥 Demonstration Video
+https://drive.google.com/file/d/1eWvt_6fuFf3f3_PM_jAXDzb_KLti3vzE/view?usp=drive_link
+
 ---
 **Author:** Revan Khanbabayev
 **Task Number:** 6
